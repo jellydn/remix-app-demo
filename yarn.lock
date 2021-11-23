@@ -2399,10 +2399,10 @@ remark-rehype@^9.0.0:
     mdast-util-to-hast "^11.0.0"
     unified "^10.0.0"
 
-remix@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/remix/-/remix-1.0.3.tgz#729d94659ed9a9dd01466e0d4776b69cf884d08d"
-  integrity sha512-XbT2Gjk9qMvlcdfvhyQm5Z7wvVQb3TIVzl0Q8UPZ6cxaVKBBe7kmjSuEtCjJZcVbB9Xfl/dmB/JoTftG/XJfuw==
+remix@1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/remix/-/remix-1.0.4.tgz#1370f6cbc3aa09665c022bf1386145962d4fa552"
+  integrity sha512-yjED3VIxmNn/gU1KjpUbAJ2LQnsXNbB1GDm5//Kq/Z1/Ba0W4JE6dFqoXdG0oHL6o+jQct9S020vXZVHQPKJ8A==
   dependencies:
     fs-extra "^10.0.0"
 
