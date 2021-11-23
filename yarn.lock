@@ -70,12 +70,12 @@
     ws "^7.4.5"
     xdm "^2.0.0"
 
-"@remix-run/node@1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@remix-run/node/-/node-1.0.3.tgz#f2be0a0cee518f9ded39572a6e531ecda15a8a01"
-  integrity sha512-p/466Dlw5KOaHMjwEIG7K1gLJKWfL3AlqFT4a84gR3606D2C+T2s/YJtP3xRq2iBLAzDbzSx/x4gctpM6tI3Jw==
+"@remix-run/node@1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@remix-run/node/-/node-1.0.4.tgz#96d77d4a8bafd0e2dac9cb88b96fd9872720f7cd"
+  integrity sha512-19fo8XQO1XqhCeHXP5Pp2n2b3XR2WqmfJqsAvlik/iAiQhH0ztOZwWFkB0KpX5wUMAXR1fdoZG+VXxeA2pYKxQ==
   dependencies:
-    "@remix-run/server-runtime" "1.0.3"
+    "@remix-run/server-runtime" "1.0.4"
     "@types/node-fetch" "^2.5.12"
     cookie-signature "^1.1.0"
     node-fetch "^2.6.1"
@@ -88,10 +88,10 @@
   dependencies:
     react-router-dom "^6.0.2"
 
-"@remix-run/server-runtime@1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@remix-run/server-runtime/-/server-runtime-1.0.3.tgz#803cae97dc2c01a71533c26362b69db9dba766e5"
-  integrity sha512-Y7gOa49pokkdKJgSsIGUp3/3oVsLulSMMtztJbZATZ+BqF88HQ7HbqSkAvHJ71Tba18J66Ye/QZ7KTpTNuVrFA==
+"@remix-run/server-runtime@1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@remix-run/server-runtime/-/server-runtime-1.0.4.tgz#a5865ee1167d6fa9e2177d5f6685efa30d25e002"
+  integrity sha512-dZL3qIuvd8ngT0L1ShNJY2Fz/J3iRYcMOl9FdskBGYVVwTMlHMTDqqilBJGlmuxd2/nUkPxLfpos0ZkQGr1tXg==
   dependencies:
     "@types/cookie" "^0.4.0"
     cookie "^0.4.1"
@@ -100,12 +100,12 @@
     set-cookie-parser "^2.4.8"
     source-map "^0.7.3"
 
-"@remix-run/vercel@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@remix-run/vercel/-/vercel-1.0.3.tgz#6b17e2900018dac4bb7db1f3bd2f8c96f878197b"
-  integrity sha512-dUWP23+7wMKOpTN7t7U1s5KdMzu8Uqqvd0pzKESYLEW/gECgWX0wRdrmXeu1/NZLEaA0WdRCftoVNvekn6+sww==
+"@remix-run/vercel@1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@remix-run/vercel/-/vercel-1.0.4.tgz#dd1a1c26cdf1d1035af44229e436906ec0a5e9d4"
+  integrity sha512-58BXXK83Da8KG/IDCBBszZoLLqxbi6r6/rUJ6TPGmqg6XBpEawBUkpFW6qnIwRcFIG8RiJJQsoke/RJGjAutLA==
   dependencies:
-    "@remix-run/node" "1.0.3"
+    "@remix-run/node" "1.0.4"
 
 "@rollup/pluginutils@^4.0.0":
   version "4.1.1"
