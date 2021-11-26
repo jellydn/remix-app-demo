@@ -51,10 +51,10 @@
     mkdirp "^1.0.4"
     rimraf "^3.0.2"
 
-"@remix-run/dev@1.0.5":
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/@remix-run/dev/-/dev-1.0.5.tgz#6c964051a3453260b3f28ac01c0a00854ddc23f2"
-  integrity sha512-EA/L/Nv66+0Vcn4n+v66Iqctb4eY/MQnkBQxFi+41UL2W4G98FSB6zCthigSokkIeTvp9WnjxqA19cAwWQBvQA==
+"@remix-run/dev@1.0.6":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@remix-run/dev/-/dev-1.0.6.tgz#7436c74dcfb51109fac5fc748671bc5608c7c918"
+  integrity sha512-DlF8Km9V3jTsJwLPLIwf9Z49HycPBO1lHVHxPVpKH8XSXwg9r0y9IlLxjp7RhQ5aZQcaneva+tHdQ6ZOX4XqpQ==
   dependencies:
     cacache "^15.0.5"
     chokidar "^3.5.1"
