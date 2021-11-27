@@ -2408,10 +2408,10 @@ remark-rehype@^9.0.0:
     mdast-util-to-hast "^11.0.0"
     unified "^10.0.0"
 
-remix@1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/remix/-/remix-1.0.5.tgz#929b1dbf106ca11375d809488fd4bbd9ee5f257f"
-  integrity sha512-D4cHhFW828Vpvj/gxii2Qzvh8T/8BKgq9//K1SxW0WbnSoto/MYFA5VPBBZu1fVP+bnRm2pqvk0ou+2cl/pBeA==
+remix@1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/remix/-/remix-1.0.6.tgz#5cf34e35447fbbd00f11d2d351dec8ba22273b01"
+  integrity sha512-9yN3vdVgM/U1yaNToUDzvYYlNAFXtRyxCVvc2kCS1yOVVBeDkC3d58dD8MZx8aSZFsWpDBR8yW+LZTlY5G7/Bw==
   dependencies:
     fs-extra "^10.0.0"
 
