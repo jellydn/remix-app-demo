@@ -4737,10 +4737,10 @@ remark-rehype@^9.0.0:
     mdast-util-to-hast "^11.0.0"
     unified "^10.0.0"
 
-remix@1.4.1:
-  version "1.4.1"
-  resolved "https://registry.yarnpkg.com/remix/-/remix-1.4.1.tgz#f9f4b4341754b86ed73733621974b50f5a2a3f73"
-  integrity sha512-lv8wqwGVYtFvplc5B9pQH0C17cO/MFrDFNbvaMQ3rDeguu+YYlQvVsDVw2NzXB8ZA6Ad7JxYRT341ADI+LuBCQ==
+remix@1.5.1:
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/remix/-/remix-1.5.1.tgz#296effdb26f08860d86daf6319cdb6104c5ba897"
+  integrity sha512-95+4LlrUUJuIVOjSTjHMnvEDJcYNEhb60zd4tT1bRSDW11jXDAiYGimCoDAFPWv4DbpVcmtnujjQ+ym/YlP2nA==
 
 repeat-element@^1.1.2:
   version "1.1.4"
