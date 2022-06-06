@@ -10,19 +10,19 @@
     "start": "vercel dev"
   },
   "dependencies": {
-    "@remix-run/react": "1.4.1",
-    "react": "18.0.0",
-    "react-dom": "18.0.0",
-    "remix": "1.4.1",
-    "@remix-run/vercel": "1.4.1",
-    "@vercel/node": "1.14.1"
+    "@remix-run/react": "1.5.1",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "remix": "1.5.1",
+    "@remix-run/vercel": "1.5.1",
+    "@vercel/node": "2.0.1"
   },
   "devDependencies": {
-    "@remix-run/dev": "1.4.1",
-    "@types/react": "18.0.5",
-    "@types/react-dom": "18.0.1",
-    "typescript": "4.6.3",
-    "vercel": "24.1.0"
+    "@remix-run/dev": "1.5.1",
+    "@types/react": "18.0.12",
+    "@types/react-dom": "18.0.5",
+    "typescript": "4.7.3",
+    "vercel": "25.0.1"
   },
   "engines": {
     "node": ">=14"

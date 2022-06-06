@@ -1,5 +1,7 @@
 # Welcome to Remix!
 
+[![Remix - Full stack Web React built on top react-router](https://img.youtube.com/vi/aS564PQWpkk/0.jpg)](https://www.youtube.com/watch?v=aS564PQWpkk)
+
 - [Remix Docs](https://remix.run/docs)
 
 ## Vercel Setup
