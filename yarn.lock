@@ -1879,6 +1879,11 @@
   resolved "https://registry.yarnpkg.com/@vercel/build-utils/-/build-utils-6.7.5.tgz#b35f92f1c3907697f608f8c1ee236fe46c4d11c3"
   integrity sha512-nzglYEz9BvZH0lptfTtTVDDD3Dyn31gnBGChOUT7J1jkzlMT1IReuysgJPisaWk4v92Ax5SpZL35I0lOQdfKwQ==
 
+"@vercel/build-utils@6.8.0":
+  version "6.8.0"
+  resolved "https://registry.yarnpkg.com/@vercel/build-utils/-/build-utils-6.8.0.tgz#0d9f7900fe82608ab985462ed731a41b5b4afafc"
+  integrity sha512-rGKTC1wCJeHvyEM4Td35M528XYPECcrb5xNF1k784BTVW4GicH6AQxr2YunfK+zkMBeR9WmG7fFAzEg38FLarw==
+
 "@vercel/error-utils@1.0.10":
   version "1.0.10"
   resolved "https://registry.yarnpkg.com/@vercel/error-utils/-/error-utils-1.0.10.tgz#6530e9c930d5cf4c7f96045ec3a0bccaf2e6b14c"
@@ -1948,6 +1953,29 @@
     "@types/node" "14.18.33"
     "@types/node-fetch" "2.6.3"
     "@vercel/build-utils" "6.7.5"
+    "@vercel/error-utils" "1.0.10"
+    "@vercel/static-config" "2.0.17"
+    async-listen "3.0.0"
+    edge-runtime "2.4.3"
+    esbuild "0.14.47"
+    exit-hook "2.2.1"
+    node-fetch "2.6.9"
+    path-to-regexp "6.2.1"
+    ts-morph "12.0.0"
+    ts-node "10.9.1"
+    typescript "4.9.5"
+
+"@vercel/node@2.15.3":
+  version "2.15.3"
+  resolved "https://registry.yarnpkg.com/@vercel/node/-/node-2.15.3.tgz#83593133ded7e58400df7719c50ed4e8a518750d"
+  integrity sha512-kqti7lE6TT3sESXMsCm4lqtNXjyKr9P7+yhjDDL/TIzqfhqPLuiYmkiKYVNctnsdLrzDi9Cp2qaQA2a9/jpv1g==
+  dependencies:
+    "@edge-runtime/node-utils" "2.0.3"
+    "@edge-runtime/primitives" "2.1.2"
+    "@edge-runtime/vm" "3.0.1"
+    "@types/node" "14.18.33"
+    "@types/node-fetch" "2.6.3"
+    "@vercel/build-utils" "6.8.0"
     "@vercel/error-utils" "1.0.10"
     "@vercel/static-config" "2.0.17"
     async-listen "3.0.0"
@@ -6016,10 +6044,10 @@ typescript@4.9.5:
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.9.5.tgz#095979f9bcc0d09da324d58d03ce8f8374cbe65a"
   integrity sha512-1FXk9E2Hm+QzZQ7z+McJiHL4NW1F2EzMu9Nq9i3zAaGqibafqYwCVU6WyWAuyQRRzOlxou8xZSyXLEN8oKj24g==
 
-typescript@5.1.5:
-  version "5.1.5"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.1.5.tgz#a3ae755082488b6046fe64345d293ef26af08671"
-  integrity sha512-FOH+WN/DQjUvN6WgW+c4Ml3yi0PH+a/8q+kNIfRehv1wLhWONedw85iu+vQ39Wp49IzTJEsZ2lyLXpBF7mkF1g==
+typescript@5.1.6:
+  version "5.1.6"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.1.6.tgz#02f8ac202b6dad2c0dd5e0913745b47a37998274"
+  integrity sha512-zaWCozRZ6DLEWAWFrVDz1H6FVXzUSfTy5FUMWsQlU8Ym5JP9eO4xkTIROFCQvhQf61z6O/G6ugw3SgAnvvm+HA==
 
 ufo@^1.1.2:
   version "1.1.2"
