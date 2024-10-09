@@ -2218,10 +2218,10 @@
   resolved "https://registry.yarnpkg.com/@vercel/build-utils/-/build-utils-6.7.5.tgz#b35f92f1c3907697f608f8c1ee236fe46c4d11c3"
   integrity sha512-nzglYEz9BvZH0lptfTtTVDDD3Dyn31gnBGChOUT7J1jkzlMT1IReuysgJPisaWk4v92Ax5SpZL35I0lOQdfKwQ==
 
-"@vercel/build-utils@8.4.8":
-  version "8.4.8"
-  resolved "https://registry.yarnpkg.com/@vercel/build-utils/-/build-utils-8.4.8.tgz#15b5cd1dfb1b7bd16aaf3776d9abf5d5160300ea"
-  integrity sha512-ZSg8ZTBWebWVnREtxK75Cr3u9m5tsNzZOh649qoprPitL5u403VnYgjBENGEcKl8A1cuwbs1I0mEt9YffdyCtQ==
+"@vercel/build-utils@8.4.9":
+  version "8.4.9"
+  resolved "https://registry.yarnpkg.com/@vercel/build-utils/-/build-utils-8.4.9.tgz#17b0917c5d60b3dc93190b3a2439cec9c7935fcb"
+  integrity sha512-03uTEAiEIdtDQBrxFgW92QmpnHuNJP8JSH5cwZNCQIDYswxhvfc79yvIdVeV8dJkTdxxu3ojzE+lEdAg4vO94Q==
 
 "@vercel/error-utils@1.0.10":
   version "1.0.10"
@@ -2327,16 +2327,16 @@
     ts-node "10.9.1"
     typescript "4.9.5"
 
-"@vercel/node@3.2.20":
-  version "3.2.20"
-  resolved "https://registry.yarnpkg.com/@vercel/node/-/node-3.2.20.tgz#6e2fd8b2e1da49d5d8fc7e8b37dcf3ee95d0b10f"
-  integrity sha512-M8lKpQAgJILseislixwxq8lfcj5c5weLDuAyJOCHGv8kG+y71k8lffPd5zzEicQbQPbofAJR2bioC3/pYK/F5g==
+"@vercel/node@3.2.21":
+  version "3.2.21"
+  resolved "https://registry.yarnpkg.com/@vercel/node/-/node-3.2.21.tgz#5be32471f14798b6cbec7d6849c71e5de96b62f8"
+  integrity sha512-HvQ4P4kN1qr2c9/V6VwJVouVkz3H+dTM33szYpwqpRWJ8+4eGMOIBPyAWPUCQqqYVL3mHDEFThxv3PttuL0o+A==
   dependencies:
     "@edge-runtime/node-utils" "2.3.0"
     "@edge-runtime/primitives" "4.1.0"
     "@edge-runtime/vm" "3.2.0"
     "@types/node" "16.18.11"
-    "@vercel/build-utils" "8.4.8"
+    "@vercel/build-utils" "8.4.9"
     "@vercel/error-utils" "2.0.2"
     "@vercel/nft" "0.27.3"
     "@vercel/static-config" "3.0.0"
