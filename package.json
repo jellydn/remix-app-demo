@@ -15,7 +15,7 @@
     "react-dom": "18.3.1",
     "remix": "2.12.1",
     "@remix-run/vercel": "1.19.3",
-    "@vercel/node": "3.2.21"
+    "@vercel/node": "3.2.22"
   },
   "devDependencies": {
     "@remix-run/dev": "2.12.1",
