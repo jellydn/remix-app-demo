@@ -930,10 +930,10 @@
   resolved "https://registry.yarnpkg.com/@pkgjs/parseargs/-/parseargs-0.11.0.tgz#a77ea742fab25775145434eb1d2328cf5013ac33"
   integrity sha512-+1VkjdD0QBLPodGrJUeqarH8VAIvQODIbwh9XpP5Syisf7YoQgsJKPNFoqqLQlu+VQ/tVSshMR6loPMn8U+dPg==
 
-"@remix-run/dev@2.16.0":
-  version "2.16.0"
-  resolved "https://registry.yarnpkg.com/@remix-run/dev/-/dev-2.16.0.tgz#efd30b99b2242cb0b66b2c517f42aa4b1b61e175"
-  integrity sha512-zfb93zJatWRMmBU4dQFM9pTgYfkZi1orDYtd18f9YNZM6pbshmhqlsiGZmrMAhAuYLGB983aqkXY3pxtZhoDkQ==
+"@remix-run/dev@2.16.1":
+  version "2.16.1"
+  resolved "https://registry.yarnpkg.com/@remix-run/dev/-/dev-2.16.1.tgz#186faf7d068dcad8ddf57af732b1c2c73b21a716"
+  integrity sha512-CZL1zzQlSSgNr9qsLAaohxm9t5dG5S7wfRERKghL2VlD4KkZWlt307s1KJ+voWrQTVD8BF1tH0cBxG+BJSwEdA==
   dependencies:
     "@babel/core" "^7.21.8"
     "@babel/generator" "^7.21.5"
@@ -945,9 +945,9 @@
     "@babel/types" "^7.22.5"
     "@mdx-js/mdx" "^2.3.0"
     "@npmcli/package-json" "^4.0.1"
-    "@remix-run/node" "2.16.0"
+    "@remix-run/node" "2.16.1"
     "@remix-run/router" "1.23.0"
-    "@remix-run/server-runtime" "2.16.0"
+    "@remix-run/server-runtime" "2.16.1"
     "@types/mdx" "^2.0.5"
     "@vanilla-extract/integration" "^6.2.0"
     arg "^5.0.1"
@@ -1007,12 +1007,12 @@
     source-map-support "^0.5.21"
     stream-slice "^0.1.2"
 
-"@remix-run/node@2.16.0":
-  version "2.16.0"
-  resolved "https://registry.yarnpkg.com/@remix-run/node/-/node-2.16.0.tgz#9ffde5408c80726b4fc276f24a36ddfec337b86d"
-  integrity sha512-9yYBYCHYO1+bIScGAtOy5/r4BoTS8E5lpQmjWP99UxSCSiKHPEO76V9Z8mmmarTNis/FPN+sUwfmbQWNHLA2vw==
+"@remix-run/node@2.16.1":
+  version "2.16.1"
+  resolved "https://registry.yarnpkg.com/@remix-run/node/-/node-2.16.1.tgz#27c7afd51a362cced92660f4b5653a5618708060"
+  integrity sha512-tAx+64hIDkTtPguFkLbX0g2fwJcdM4vPtX5ZGdZSR92YllSjawWRhWDnWd/SFi6tZWqaWl/vxsGEdilO0OVk1w==
   dependencies:
-    "@remix-run/server-runtime" "2.16.0"
+    "@remix-run/server-runtime" "2.16.1"
     "@remix-run/web-fetch" "^4.4.2"
     "@web3-storage/multipart-parser" "^1.0.0"
     cookie-signature "^1.1.0"
@@ -1020,13 +1020,13 @@
     stream-slice "^0.1.2"
     undici "^6.11.1"
 
-"@remix-run/react@2.16.0":
-  version "2.16.0"
-  resolved "https://registry.yarnpkg.com/@remix-run/react/-/react-2.16.0.tgz#73838e5ab5a9d77317ff56673c7ffc5312dae01d"
-  integrity sha512-eTi60/7AO8vnIL+IT33ZixT0tLjUrilgKhimdZtddBc/XIawUeslC01mNUHIlLXS+zUDM05iBmY2aLTKkqyy6Q==
+"@remix-run/react@2.16.1":
+  version "2.16.1"
+  resolved "https://registry.yarnpkg.com/@remix-run/react/-/react-2.16.1.tgz#33565f76bce0540c2ebe73fa812447c09c78f852"
+  integrity sha512-+aPcDvcTkm9jq+JEh4BWKHDk8uRRP1+9N59v4xecWpSdyQ+YID0YhizH2RuJBTosI96/NIeqojT/rJp//M/TCQ==
   dependencies:
     "@remix-run/router" "1.23.0"
-    "@remix-run/server-runtime" "2.16.0"
+    "@remix-run/server-runtime" "2.16.1"
     react-router "6.30.0"
     react-router-dom "6.30.0"
     turbo-stream "2.4.0"
@@ -1053,10 +1053,10 @@
     set-cookie-parser "^2.4.8"
     source-map "^0.7.3"
 
-"@remix-run/server-runtime@2.16.0":
-  version "2.16.0"
-  resolved "https://registry.yarnpkg.com/@remix-run/server-runtime/-/server-runtime-2.16.0.tgz#3f671b32d59fe4438b7f8a484ec757826750fdab"
-  integrity sha512-gbuc4slxPi+pT47MrUYprX/wCuDlYL6H3LHZSvimWO1kDCBt8oefHzdHDPjLi4B1xzqXZomswTbuJzpZ7xRRTg==
+"@remix-run/server-runtime@2.16.1":
+  version "2.16.1"
+  resolved "https://registry.yarnpkg.com/@remix-run/server-runtime/-/server-runtime-2.16.1.tgz#70e9d631274476d00089dac16f81d23eb8891972"
+  integrity sha512-jk52Gt3GmNzHtQcOQ77iX2Lhm6Zcgqc1hjMAuWtvTvMjqvww9NjHaNNxdJmJ3SXZESxpQ+IKEy4GeQXd8D9CNQ==
   dependencies:
     "@remix-run/router" "1.23.0"
     "@types/cookie" "^0.6.0"
@@ -5039,10 +5039,10 @@ remark-rehype@^10.0.0:
     mdast-util-to-hast "^12.1.0"
     unified "^10.0.0"
 
-remix@2.16.0:
-  version "2.16.0"
-  resolved "https://registry.yarnpkg.com/remix/-/remix-2.16.0.tgz#2f66515c877a2c38512dc14ea0dd80c3ddfcbfe3"
-  integrity sha512-vxiJLD6+TuFbUmZ1/tGGTCaUfyNVOtqXc7egFJAO6PR9ScPyI8l++7BoFCSylV2Trfc8bvC2W6qWHwZZZc1IpQ==
+remix@2.16.1:
+  version "2.16.1"
+  resolved "https://registry.yarnpkg.com/remix/-/remix-2.16.1.tgz#157aab055f4ad97c8efd4145ab909c98ebdac7c6"
+  integrity sha512-ZSDsLBBhKRmQNb52ayfpxyW96/FoYVZR0o6k61qgQi/s1db9o9mPBjbM5FklVIRbuIWmLFJkTEE6C6CJ+qEiNA==
 
 require-from-string@^2.0.2:
   version "2.0.2"
