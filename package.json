@@ -20,8 +20,8 @@
   "devDependencies": {
     "@remix-run/dev": "2.16.4",
     "@types/react": "18.3.20",
-    "@types/react-dom": "18.3.5",
-    "typescript": "5.8.2",
+    "@types/react-dom": "18.3.6",
+    "typescript": "5.8.3",
     "vercel": "37.14.0"
   },
   "engines": {
