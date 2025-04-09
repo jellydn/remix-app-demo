@@ -10,15 +10,15 @@
     "start": "vercel dev"
   },
   "dependencies": {
-    "@remix-run/react": "2.16.4",
+    "@remix-run/react": "2.16.5",
     "react": "18.3.1",
     "react-dom": "18.3.1",
-    "remix": "2.16.4",
+    "remix": "2.16.5",
     "@remix-run/vercel": "1.19.3",
     "@vercel/node": "3.2.29"
   },
   "devDependencies": {
-    "@remix-run/dev": "2.16.4",
+    "@remix-run/dev": "2.16.5",
     "@types/react": "18.3.20",
     "@types/react-dom": "18.3.6",
     "typescript": "5.8.3",
