@@ -928,10 +928,10 @@
   resolved "https://registry.yarnpkg.com/@pkgjs/parseargs/-/parseargs-0.11.0.tgz#a77ea742fab25775145434eb1d2328cf5013ac33"
   integrity sha512-+1VkjdD0QBLPodGrJUeqarH8VAIvQODIbwh9XpP5Syisf7YoQgsJKPNFoqqLQlu+VQ/tVSshMR6loPMn8U+dPg==
 
-"@remix-run/dev@2.16.6":
-  version "2.16.6"
-  resolved "https://registry.yarnpkg.com/@remix-run/dev/-/dev-2.16.6.tgz#8028b8efde52e552afb294b06be4ccd35d4744b8"
-  integrity sha512-vddzv6IY+4KFDNhTj7yvMi5BmBpEVSe6meq9Z7/yM5mjv03F5Ywsci41Sdri2RU5Nitplrj2o9iXOtQOnTBS3g==
+"@remix-run/dev@2.16.7":
+  version "2.16.7"
+  resolved "https://registry.yarnpkg.com/@remix-run/dev/-/dev-2.16.7.tgz#423f4f62ccdf1b61c3dbbc1208bbce007433756a"
+  integrity sha512-TOY1g0LXKA2fHZUg/+7UdY/znCv9tnF49xdCP0EYh+X9Iaiz/w2I74CYaUTh9dXesVWEwWpfUn3+GISKtbdyPw==
   dependencies:
     "@babel/core" "^7.21.8"
     "@babel/generator" "^7.21.5"
@@ -943,9 +943,9 @@
     "@babel/types" "^7.22.5"
     "@mdx-js/mdx" "^2.3.0"
     "@npmcli/package-json" "^4.0.1"
-    "@remix-run/node" "2.16.6"
+    "@remix-run/node" "2.16.7"
     "@remix-run/router" "1.23.0"
-    "@remix-run/server-runtime" "2.16.6"
+    "@remix-run/server-runtime" "2.16.7"
     "@types/mdx" "^2.0.5"
     "@vanilla-extract/integration" "^6.2.0"
     arg "^5.0.1"
@@ -987,7 +987,7 @@
     tar-fs "^2.1.1"
     tsconfig-paths "^4.0.0"
     valibot "^0.41.0"
-    vite-node "3.0.0-beta.2"
+    vite-node "^3.1.3"
     ws "^7.5.10"
 
 "@remix-run/node@1.19.3":
@@ -1005,12 +1005,12 @@
     source-map-support "^0.5.21"
     stream-slice "^0.1.2"
 
-"@remix-run/node@2.16.6":
-  version "2.16.6"
-  resolved "https://registry.yarnpkg.com/@remix-run/node/-/node-2.16.6.tgz#3d0594c9791304d0fae4f1cb62628e0bd8eeb5c5"
-  integrity sha512-agIR9duqTWAeYMUj2myuLCNdedMEhLUCKOfOb7IwC/o4cp0D2I6hXOQfJKQHevnui1dPUlxWhsz/rc69wQF0BA==
+"@remix-run/node@2.16.7":
+  version "2.16.7"
+  resolved "https://registry.yarnpkg.com/@remix-run/node/-/node-2.16.7.tgz#07b75298801fd953705a8a7710cdfda3c676ed79"
+  integrity sha512-7NSK9WM8te9sqvrKkJi9OQEO/ga/Idyr1aBMY5KMMaZmb7DH/qjaIfI/4nEHZ127dPS1hzlS+Vev+qAT8XyjvA==
   dependencies:
-    "@remix-run/server-runtime" "2.16.6"
+    "@remix-run/server-runtime" "2.16.7"
     "@remix-run/web-fetch" "^4.4.2"
     "@web3-storage/multipart-parser" "^1.0.0"
     cookie-signature "^1.1.0"
@@ -1018,13 +1018,13 @@
     stream-slice "^0.1.2"
     undici "^6.21.2"
 
-"@remix-run/react@2.16.6":
-  version "2.16.6"
-  resolved "https://registry.yarnpkg.com/@remix-run/react/-/react-2.16.6.tgz#03e7650436e05b83ac9c861f6fc2cc554dec8e1a"
-  integrity sha512-9wrv1E6316ptN20U3wPLm3tRhUyv0AUh1OBxq/dGwEJOMp922aQw2HSYwzYBl00blrVnQVLz1hNfVLIUzBEFzw==
+"@remix-run/react@2.16.7":
+  version "2.16.7"
+  resolved "https://registry.yarnpkg.com/@remix-run/react/-/react-2.16.7.tgz#cf74612dd0a4bfa4969970f8e07898b74c3d9463"
+  integrity sha512-xEukrPCE/S0J09ekSwKU+UHyFdjDRmtfzeeIwboELSbAXpgzYMOW2jal6H6RonVkGg/8Zp1MjqIcqM80+dvQPQ==
   dependencies:
     "@remix-run/router" "1.23.0"
-    "@remix-run/server-runtime" "2.16.6"
+    "@remix-run/server-runtime" "2.16.7"
     react-router "6.30.0"
     react-router-dom "6.30.0"
     turbo-stream "2.4.1"
@@ -1051,10 +1051,10 @@
     set-cookie-parser "^2.4.8"
     source-map "^0.7.3"
 
-"@remix-run/server-runtime@2.16.6":
-  version "2.16.6"
-  resolved "https://registry.yarnpkg.com/@remix-run/server-runtime/-/server-runtime-2.16.6.tgz#cefceef352a45fd8cf5bd40328cccd0ee66fdce9"
-  integrity sha512-EAD21CDrrTvaC2FznMDcVza12DgUUdGkR1kSM75ZrIy9sJaWKpiTqBitKoIjw1K89IPCM7xZTAEvpDxIWitULg==
+"@remix-run/server-runtime@2.16.7":
+  version "2.16.7"
+  resolved "https://registry.yarnpkg.com/@remix-run/server-runtime/-/server-runtime-2.16.7.tgz#5235f6db0f38dac6a68f9048a1b13715cfc768c1"
+  integrity sha512-3aZZG8KBUQTenscOnV68AEwStRgx/rVvD8tkxwm92Zx7QMO/UZhhuNcZE9bvD5zTpp2sLwjwCTUK1eEJgTpKfg==
   dependencies:
     "@remix-run/router" "1.23.0"
     "@types/cookie" "^0.6.0"
@@ -2437,7 +2437,7 @@ es-module-lexer@1.4.1:
   resolved "https://registry.yarnpkg.com/es-module-lexer/-/es-module-lexer-1.4.1.tgz#41ea21b43908fe6a287ffcbe4300f790555331f5"
   integrity sha512-cXLGjP0c4T3flZJKQSuziYoq7MlT+rnvfZjfp7h+I7K9BNX54kP9nyWvdbwjQ4u1iWbOL4u96fgeZLToQlZC7w==
 
-es-module-lexer@^1.3.1, es-module-lexer@^1.5.4:
+es-module-lexer@^1.3.1, es-module-lexer@^1.7.0:
   version "1.7.0"
   resolved "https://registry.yarnpkg.com/es-module-lexer/-/es-module-lexer-1.7.0.tgz#9159601561880a85f2734560a9099b2c31e5372a"
   integrity sha512-jEQoCwk8hyb2AZziIOLhDqpm5+2ww5uIE6lkO/6jcOCusfk6LhMHpXXfBLXTZ7Ydyt0j4VoUQv6uGNYbdW+kBA==
@@ -5047,10 +5047,10 @@ remark-rehype@^10.0.0:
     mdast-util-to-hast "^12.1.0"
     unified "^10.0.0"
 
-remix@2.16.6:
-  version "2.16.6"
-  resolved "https://registry.yarnpkg.com/remix/-/remix-2.16.6.tgz#87ee1a1c8f41531f8617bad8ef11b2d6a080b77a"
-  integrity sha512-Gj/lPA+4voULxJpheBjB+B18uaYEjx5Q9V7IcJCmPhSHkmeoRwOdCjKugIRLfjUhwodnT4ZaOYfIkHycIDtkLw==
+remix@2.16.7:
+  version "2.16.7"
+  resolved "https://registry.yarnpkg.com/remix/-/remix-2.16.7.tgz#1d7c2e7c6acf3bffe0452b266ec12cdf7bc442c1"
+  integrity sha512-SkEYHV/mDFwmhm3qJiiJ/ID1TnzCUB9uDifQq4mKwOcXYGGjuAXaPev15YfIKhSkfTYbz2k8zSQW5FWqh4OXKQ==
 
 require-from-string@^2.0.2:
   version "2.0.2"
@@ -5934,17 +5934,6 @@ vfile@^5.0.0:
     unist-util-stringify-position "^3.0.0"
     vfile-message "^3.0.0"
 
-vite-node@3.0.0-beta.2:
-  version "3.0.0-beta.2"
-  resolved "https://registry.yarnpkg.com/vite-node/-/vite-node-3.0.0-beta.2.tgz#4208a6be384f9e7bba97570114d662ce9c957dc1"
-  integrity sha512-ofTf6cfRdL30Wbl9n/BX81EyIR5s4PReLmSurrxQ+koLaWUNOEo8E0lCM53OJkb8vpa2URM2nSrxZsIFyvY1rg==
-  dependencies:
-    cac "^6.7.14"
-    debug "^4.4.0"
-    es-module-lexer "^1.5.4"
-    pathe "^1.1.2"
-    vite "^5.0.0 || ^6.0.0"
-
 vite-node@^1.2.0:
   version "1.6.1"
   resolved "https://registry.yarnpkg.com/vite-node/-/vite-node-1.6.1.tgz#fff3ef309296ea03ceaa6ca4bb660922f5416c57"
@@ -5955,6 +5944,17 @@ vite-node@^1.2.0:
     pathe "^1.1.1"
     picocolors "^1.0.0"
     vite "^5.0.0"
+
+vite-node@^3.1.3:
+  version "3.1.4"
+  resolved "https://registry.yarnpkg.com/vite-node/-/vite-node-3.1.4.tgz#13f10b2cb155197a971cb2761664ec952c6cae18"
+  integrity sha512-6enNwYnpyDo4hEgytbmc6mYWHXDHYEn0D1/rw4Q+tnHUGtKTJsn8T1YkX6Q18wI5LCrS8CTYlBaiCqxOy2kvUA==
+  dependencies:
+    cac "^6.7.14"
+    debug "^4.4.0"
+    es-module-lexer "^1.7.0"
+    pathe "^2.0.3"
+    vite "^5.0.0 || ^6.0.0"
 
 vite@^5.0.0, vite@^5.0.11:
   version "5.4.19"
