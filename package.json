@@ -22,7 +22,7 @@
     "@types/react": "18.3.27",
     "@types/react-dom": "18.3.7",
     "typescript": "5.9.3",
-    "vercel": "37.14.0"
+    "vercel": "48.12.1"
   },
   "engines": {
     "node": ">=14"
